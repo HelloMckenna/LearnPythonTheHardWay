@@ -1,0 +1,8 @@
+ex9.py
+
+Used / instead of \ in the new line \n ESCAPE SEQUENCE
+
+ex10.py
+
+Fishes instead of Fishies
+backslashcat instead of backslash_cat
