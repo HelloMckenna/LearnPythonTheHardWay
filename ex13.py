@@ -1,8 +1,12 @@
-The script is called ./ex13.py
+# From the system, import argument varibles..
 
 from sys import argv
 
+# The argument varuables are called:
+
 script, first, second, third = argv
+
+# In order to call these variables, the must be named when the variable is being called. e.g. in powershell: ""py ex13.py first 2nd 3rd""
 
 print "The script is called:", script
 print "Your first variable is:", first
