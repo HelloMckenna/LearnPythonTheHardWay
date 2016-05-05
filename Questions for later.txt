@@ -10,3 +10,6 @@ What does this mean? Any line ending in the input file will be seen as a '\n'
  |  the value for this attribute is one of None (no newline read yet),
  |  '\r', '\n', '\r\n' or a tuple containing all the newline types seen.
  |
+
+ 
+ ex15 study drill 6. could not get to read a file as not sure of file location.

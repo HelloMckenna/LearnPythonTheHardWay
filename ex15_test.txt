@@ -1,0 +1,1 @@
+This is some other stuff i typed into a file to see if I can open another file using raw_input()
