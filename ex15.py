@@ -22,6 +22,9 @@ txt_again = open(file_again)
 # printing the contents of the file object defined in the raw_input()
 print txt_again.read()
 
+close(txt)
+close(txt_again)
+
 
 """
 1: describe what each line does
@@ -31,6 +34,10 @@ open(name[, mode[, buffering]])
 
 4: Get rid of the lines 10-15 where you use raw_input and run the script again. Means file is called by raw_input() rather than defined in the argv?
 
-5: see ex15_exp.py for example of using just raw_input() to call and print a file.
+5: see ex15_exp.py for example of using just raw_input() to call and print a file. user input creates more flexability in the script but if a hard script is required then a script defined file works best.
+
+6: COULD NOT GET TO WORK
+
+7: close() at end of script... its important.
 
 """
