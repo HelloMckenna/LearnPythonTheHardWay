@@ -12,3 +12,8 @@ ex14.py
 forgot the % at the end of the """...""" % variable 
 forgot to define what a variable from a raw input()
 misspelled script
+
+ex16.py
+
+forgot to define variables Line1, Line2 and Line3
+Mixed up using capitals and lowercase as part of the variable names
