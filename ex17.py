@@ -34,6 +34,6 @@ Study Drills
 
 4. Had to write out_file.close() to close the file after opening it. Its only good house keeping!
 
-5. Read about Python's import statement...
+5. Read about Python's import statement... ???
 
 """
